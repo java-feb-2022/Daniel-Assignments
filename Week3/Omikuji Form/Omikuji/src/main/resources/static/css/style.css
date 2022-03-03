@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.omikujiBox{
+	background-color: cadetblue;
+	width: 30%;
+	font-family: cursive;
+	border: solid darkgray 4px;
+	border-radius: 5px;
+	padding: 20px 10px;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+}
+
