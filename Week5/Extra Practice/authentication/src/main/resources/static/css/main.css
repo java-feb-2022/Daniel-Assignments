@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.header{
+	padding: 10px;
+}
+
+.mainBody{
+	display: flex;
+	padding: 10px;
+}
+
+.register, .login{
+	
+	margin: 10px;
+	justify-content: space-between;
+}
+
+.forInput{
+	display: flex;
+	justify-content: space-between;
+	margin: 5px;
+}
